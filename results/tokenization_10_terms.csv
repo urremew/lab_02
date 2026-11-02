@@ -1,0 +1,201 @@
+﻿model,term,n_words,n_tokens,tokens,is_word_level
+MarianMT,Sarcopenia,1,4,▁Sar c open ia,False
+MarianMT,Screening,1,1,▁Screening,True
+MarianMT,Muscle mass,2,3,▁Mus cle ▁mass,False
+MarianMT,Muscle strength,2,3,▁Mus cle ▁strength,False
+MarianMT,Handgrip dynamometry,2,7,▁Hand g rip ▁d yn amo metry,False
+MarianMT,Physical performance,2,2,▁Physical ▁performance,True
+MarianMT,Bioelectrical impedance analysis (BIA),4,11,▁Bio electric al ▁imp ed ance ▁analysis ▁( BI A ),False
+MarianMT,Dual-energy X-ray absorptiometry (DXA),4,14,▁Dual - energy ▁X - ray ▁absorpti o metry ▁( D X A ),False
+MarianMT,Cutoff values,2,3,▁Cut off ▁values,False
+MarianMT,Frailty,1,3,▁F rail ty,False
+MarianMT,Appendicular skeletal muscle mass index (ASMI),6,14,▁App end ic ular ▁s kel etal ▁muscle ▁mass ▁index ▁( AS MI ),False
+MarianMT,SARC-F,1,4,▁SAR C - F,False
+MarianMT,Supraependymal nerve plexus,3,9,▁Supra e pen dy mal ▁nerve ▁p lex us,False
+MarianMT,Ependyma,1,4,▁E pen dy ma,False
+MarianMT,Immunohistochemistry,1,9,▁I m mun o his to chem ist ry,False
+MarianMT,Synaptophysin (SY),2,9,▁Sy nap to physi n ▁( S Y ),False
+MarianMT,Tryptophan hydroxylase (TPH),3,12,▁Try p to phan ▁hydro x yl ase ▁( TP H ),False
+MarianMT,Tyrosine hydroxylase (TH),3,10,▁Ty ros ine ▁hydro x yl ase ▁( TH ),False
+MarianMT,Cerebrospinal fluid (CSF),3,11,▁C ere b ros pin al ▁fluid ▁( C SF ),False
+MarianMT,Catecholamines,1,5,▁Ca tech ola mine s,False
+MarianMT,Serotonin,1,4,▁S ero ton in,False
+MarianMT,Synaptic activity,2,4,▁Sy nap tic ▁activity,False
+MarianMT,Compensated advanced chronic liver disease (cACLD),6,13,▁Com pen s ated ▁advanced ▁chronic ▁liver ▁disease ▁( c AC LD ),False
+MarianMT,Metabolic dysfunction-associated steatoic liver disease (MASLD),6,16,▁Met abo lic ▁dysfunction - associated ▁st ea to ic ▁liver ▁disease ▁( MAS LD ),False
+MarianMT,Arterial hypertension (AH),3,7,▁Art er ial ▁hypertension ▁( AH ),False
+MarianMT,Type 2 diabetes mellitus (T2DM),5,11,▁Type ▁2 ▁diabetes ▁m elli tus ▁( T 2 DM ),False
+MarianMT,Dyslipidemia,1,7,▁D y s lip ide m ia,False
+MarianMT,Transient elastography (TE),3,8,▁Trans ient ▁e last ography ▁( TE ),False
+MarianMT,Controlled attenuation parameter (CAP),4,8,▁Control led ▁attenuat ion ▁parameter ▁( CAP ),False
+MarianMT,Odds ratio (OR),3,7,▁Od d s ▁ratio ▁( OR ),False
+MarianMT,Logistic regression,2,3,▁Log istic ▁regression,False
+MarianMT,Waist circumference,2,3,▁Wa ist ▁circumference,False
+MarianMT,PNPLA3 I148M,2,8,▁P NP LA 3 ▁I 1 48 M,False
+MarianMT,Non-alcoholic fatty liver disease (NAFLD),5,15,▁Non - al co h olic ▁fat ty ▁liver ▁disease ▁( NA F LD ),False
+MarianMT,Hepatocellular carcinoma (HCC),3,13,▁He pa to cell ular ▁car c in oma ▁( HC C ),False
+MarianMT,Liver stiffness,2,4,▁Live r ▁stiff ness,False
+MarianMT,Steatosis,1,3,▁Ste at osis,False
+MarianMT,Descriptive statistics,2,4,▁De script ive ▁statistics,False
+MarianMT,Qualitative variables,2,5,▁Qu al it ative ▁variables,False
+MarianMT,Quantitative variables,2,2,▁Quantitative ▁variables,True
+MarianMT,General population,2,2,▁General ▁population,True
+MarianMT,Random sample,2,4,▁R and om ▁sample,False
+MarianMT,Mean (arithmetic mean),3,8,▁Mean ▁( ari th m etic ▁mean ),False
+MarianMT,Median,1,2,▁Media n,False
+MarianMT,Mode,1,1,▁Mode,True
+MarianMT,Standard deviation (SD),3,5,▁Standard ▁deviation ▁( SD ),False
+MarianMT,Confidence interval (CI),3,5,▁Confidence ▁interval ▁( CI ),False
+MarianMT,Histogram,1,3,▁His to gram,False
+MarianMT,Interquartile range (IQR),3,10,▁Inter qu art ile ▁range ▁( I Q R ),False
+MarianMT,Box-plot (box-and-whiskers diagram),3,15,▁Box - p lot ▁( box - and - w his ker s ▁diagram ),False
+MarianMT,Outliers,1,3,▁Out lier s,False
+MarianMT,Odds,1,3,▁Od d s,False
+MarianMT,Probability density function,3,5,▁Pro b ability ▁density ▁function,False
+MarianMT,Normal distribution (Gaussian),3,9,▁Normal ▁distribution ▁( G au s s ian ),False
+MarianMT,Skewness,1,3,▁Sk ew ness,False
+MarianMT,Kurtosis,1,3,▁Kur to sis,False
+MarianMT,Studies and research design,4,4,▁Studies ▁and ▁research ▁design,True
+MarianMT,Subject,1,1,▁Subject,True
+MarianMT,Prospective studies,2,4,▁Pro spect ive ▁studies,False
+MarianMT,Retrospective studies,2,5,▁Re tro spect ive ▁studies,False
+MarianMT,Prevalence,1,2,▁P revalence,False
+MarianMT,Incidence,1,3,▁In cid ence,False
+MarianMT,Association,1,1,▁Association,True
+MarianMT,Causation,1,3,▁Ca us ation,False
+MarianMT,Bias,1,2,▁B ias,False
+MarianMT,Confounding,1,3,▁Con found ing,False
+MarianMT,Selection bias,2,2,▁Selection ▁bias,True
+MarianMT,Recall bias,2,2,▁Recall ▁bias,True
+MarianMT,Observer bias,2,2,▁Observer ▁bias,True
+MarianMT,Attrition bias,2,4,▁At tri tion ▁bias,False
+MarianMT,Publication bias,2,2,▁Publication ▁bias,True
+MarianMT,Basic studies,2,2,▁Basic ▁studies,True
+MarianMT,Observational studies,2,3,▁Observation al ▁studies,False
+MarianMT,Cross-sectional studies,2,5,▁Cross - section al ▁studies,False
+MarianMT,Ecological studies,2,2,▁Ecological ▁studies,True
+MarianMT,Case-control studies,2,4,▁Case - control ▁studies,False
+MarianMT,Cohort studies,2,4,▁Co ho rt ▁studies,False
+MarianMT,Interventional studies,2,3,▁Intervention al ▁studies,False
+MarianMT,Randomised controlled trials (RCT),4,10,▁R and om ised ▁controlled ▁trials ▁( RC T ),False
+MarianMT,Systematic review and meta-analysis,4,6,▁Systematic ▁review ▁and ▁meta - analysis,False
+MarianMT,COVID-19 (Corona Virus Disease 2019),5,13,▁CO VI D -19 ▁( C or ona ▁Vi rus ▁Disease ▁20 19),False
+MarianMT,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),7,16,▁SAR S - Co V -2 ▁( severe ▁acute ▁respiratory ▁syndrome ▁co ron avi rus ▁2),False
+MarianMT,Pregnancy,1,1,▁Pregnancy,True
+MarianMT,Retrospective cohort study,3,6,▁Re tro spect ive ▁cohort ▁study,False
+MarianMT,Symptomatic,1,4,▁Sy m pt omatic,False
+MarianMT,Asymptomatic,1,5,▁As y m pt omatic,False
+MarianMT,Maternal outcomes,2,2,▁Maternal ▁outcomes,True
+MarianMT,Neonatal outcomes,2,4,▁Ne o natal ▁outcomes,False
+MarianMT,Intensive care unit (ICU),4,8,▁In tensive ▁care ▁unit ▁( IC U ),False
+MarianMT,Mechanical ventilation,2,2,▁Mechanical ▁ventilation,True
+MarianMT,Extracorporeal membrane oxygenation (ECMO),4,11,▁Extra corp ore al ▁membrane ▁oxygen ation ▁( EC MO ),False
+MarianMT,Cesarean delivery,2,5,▁C es are an ▁delivery,False
+MarianMT,Preterm birth,2,3,▁Pre term ▁birth,False
+MarianMT,Intrauterine growth restriction (IUGR),4,10,▁In tra uterine ▁growth ▁restriction ▁( I U GR ),False
+MarianMT,Low birth weight,3,3,▁Low ▁birth ▁weight,True
+MarianMT,Neonatal intensive care unit,4,6,▁Ne o natal ▁intensive ▁care ▁unit,False
+MarianMT,Perinatal deaths,2,3,▁Per inatal ▁deaths,False
+MarianMT,First trimester,2,4,▁First ▁trim e ster,False
+MarianMT,Stillbirth,1,2,▁Still birth,False
+MarianMT,Gestational age,2,4,▁Ge station al ▁age,False
+NLLB,Sarcopenia,1,3,▁Sar cop enia,False
+NLLB,Screening,1,3,▁Sc re ening,False
+NLLB,Muscle mass,2,3,▁Mus cle ▁mass,False
+NLLB,Muscle strength,2,3,▁Mus cle ▁strength,False
+NLLB,Handgrip dynamometry,2,6,▁Hand g rip ▁dynam omet ry,False
+NLLB,Physical performance,2,4,▁Phy si cal ▁performance,False
+NLLB,Bioelectrical impedance analysis (BIA),4,11,▁Bio ele ctric al ▁imped ance ▁analysis ▁( B IA ),False
+NLLB,Dual-energy X-ray absorptiometry (DXA),4,17,▁Du al - ener gy ▁X - ray ▁absor pti omet ry ▁( D X A ),False
+NLLB,Cutoff values,2,4,▁C uto ff ▁values,False
+NLLB,Frailty,1,2,▁Fra ilty,False
+NLLB,Appendicular skeletal muscle mass index (ASMI),6,13,▁App endi cular ▁ske let al ▁muscle ▁mass ▁index ▁( AS MI ),False
+NLLB,SARC-F,1,4,▁SAR C - F,False
+NLLB,Supraependymal nerve plexus,3,9,▁Sup ra ep end ym al ▁nerve ▁ple xus,False
+NLLB,Ependyma,1,3,▁E pend yma,False
+NLLB,Immunohistochemistry,1,6,▁Im mun oh isto chem istry,False
+NLLB,Synaptophysin (SY),2,9,▁Syn ap to ph ysin ▁( S Y ),False
+NLLB,Tryptophan hydroxylase (TPH),3,12,▁Try p top han ▁hydro x yla se ▁( TP H ),False
+NLLB,Tyrosine hydroxylase (TH),3,10,▁Tyr os ine ▁hydro x yla se ▁( TH ),False
+NLLB,Cerebrospinal fluid (CSF),3,11,▁C ere br osp inal ▁flu id ▁( CS F ),False
+NLLB,Catecholamines,1,5,▁C ate cho lam ines,False
+NLLB,Serotonin,1,3,▁Ser ot onin,False
+NLLB,Synaptic activity,2,4,▁Syn ap tic ▁activity,False
+NLLB,Compensated advanced chronic liver disease (cACLD),6,13,▁Comp ens ated ▁advanced ▁ch ronic ▁liver ▁disease ▁( c AC LD ),False
+NLLB,Metabolic dysfunction-associated steatoic liver disease (MASLD),6,19,▁Meta bo lic ▁dys function - as soci ated ▁ste ato ic ▁liver ▁disease ▁( M AS LD ),False
+NLLB,Arterial hypertension (AH),3,8,▁Ar teri al ▁hyper tension ▁( AH ),False
+NLLB,Type 2 diabetes mellitus (T2DM),5,10,▁Type ▁2 ▁diabetes ▁mel litus ▁( T 2 DM ),False
+NLLB,Dyslipidemia,1,5,▁D ys lip id emia,False
+NLLB,Transient elastography (TE),3,8,▁Tran si ent ▁elast ography ▁( TE ),False
+NLLB,Controlled attenuation parameter (CAP),4,11,▁Control led ▁atten u ation ▁param eter ▁( C AP ),False
+NLLB,Odds ratio (OR),3,6,▁Odd s ▁ratio ▁( OR ),False
+NLLB,Logistic regression,2,4,▁Log istic ▁regres sion,False
+NLLB,Waist circumference,2,5,▁Wa ist ▁circum fer ence,False
+NLLB,PNPLA3 I148M,2,8,▁P NP LA 3 ▁I 14 8 M,False
+NLLB,Non-alcoholic fatty liver disease (NAFLD),5,14,▁Non - al co holic ▁fatt y ▁liver ▁disease ▁( NA FL D ),False
+NLLB,Hepatocellular carcinoma (HCC),3,11,▁Hep ato cel lular ▁car cin oma ▁( H CC ),False
+NLLB,Liver stiffness,2,4,▁Liver ▁sti ff ness,False
+NLLB,Steatosis,1,3,▁Ste atos is,False
+NLLB,Descriptive statistics,2,5,▁Des crip tive ▁stat istics,False
+NLLB,Qualitative variables,2,4,▁Qua lit ative ▁variables,False
+NLLB,Quantitative variables,2,4,▁Quant it ative ▁variables,False
+NLLB,General population,2,2,▁General ▁population,True
+NLLB,Random sample,2,3,▁Rand om ▁sample,False
+NLLB,Mean (arithmetic mean),3,9,▁Me an ▁( ar ith met ic ▁mean ),False
+NLLB,Median,1,2,▁Medi an,False
+NLLB,Mode,1,1,▁Mode,True
+NLLB,Standard deviation (SD),3,6,▁Standard ▁devi ation ▁( SD ),False
+NLLB,Confidence interval (CI),3,6,▁Conf idence ▁interval ▁( CI ),False
+NLLB,Histogram,1,2,▁Hist ogram,False
+NLLB,Interquartile range (IQR),3,10,▁Inter qu arti le ▁range ▁( I Q R ),False
+NLLB,Box-plot (box-and-whiskers diagram),3,14,▁Box - pl ot ▁( box - and - wh isk ers ▁diagram ),False
+NLLB,Outliers,1,2,▁Out liers,False
+NLLB,Odds,1,2,▁Odd s,False
+NLLB,Probability density function,3,6,▁Pro ba bility ▁dens ity ▁function,False
+NLLB,Normal distribution (Gaussian),3,7,▁Normal ▁distribution ▁( Ga us sian ),False
+NLLB,Skewness,1,3,▁Ske wn ess,False
+NLLB,Kurtosis,1,2,▁Kurt osis,False
+NLLB,Studies and research design,4,4,▁Studies ▁and ▁research ▁design,True
+NLLB,Subject,1,2,▁Sub ject,False
+NLLB,Prospective studies,2,4,▁Pros pe ctive ▁studies,False
+NLLB,Retrospective studies,2,5,▁Ret ros pe ctive ▁studies,False
+NLLB,Prevalence,1,3,▁Pre val ence,False
+NLLB,Incidence,1,2,▁Inc idence,False
+NLLB,Association,1,1,▁Association,True
+NLLB,Causation,1,3,▁Ca us ation,False
+NLLB,Bias,1,2,▁Bi as,False
+NLLB,Confounding,1,3,▁Con found ing,False
+NLLB,Selection bias,2,3,▁Sele ction ▁bias,False
+NLLB,Recall bias,2,3,▁Rec all ▁bias,False
+NLLB,Observer bias,2,3,▁Obser ver ▁bias,False
+NLLB,Attrition bias,2,4,▁At tr ition ▁bias,False
+NLLB,Publication bias,2,3,▁Public ation ▁bias,False
+NLLB,Basic studies,2,2,▁Basic ▁studies,True
+NLLB,Observational studies,2,4,▁Obser v ational ▁studies,False
+NLLB,Cross-sectional studies,2,6,▁Cross - se ction al ▁studies,False
+NLLB,Ecological studies,2,3,▁Ec ological ▁studies,False
+NLLB,Case-control studies,2,4,▁Case - control ▁studies,False
+NLLB,Cohort studies,2,4,▁C oh ort ▁studies,False
+NLLB,Interventional studies,2,4,▁Inter venti onal ▁studies,False
+NLLB,Randomised controlled trials (RCT),4,11,▁Rand omis ed ▁control led ▁tri als ▁( RC T ),False
+NLLB,Systematic review and meta-analysis,4,9,▁System atic ▁review ▁and ▁meta - an alys is,False
+NLLB,COVID-19 (Corona Virus Disease 2019),5,10,▁COVID -19 ▁( Cor ona ▁Virus ▁Dise ase ▁201 9),False
+NLLB,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),7,14,▁SARS - CoV -2 ▁( se vere ▁ac ute ▁respir atory ▁syndrome ▁coronavirus ▁2),False
+NLLB,Pregnancy,1,2,▁Preg nancy,False
+NLLB,Retrospective cohort study,3,7,▁Ret ros pe ctive ▁coh ort ▁study,False
+NLLB,Symptomatic,1,3,▁Sym ptom atic,False
+NLLB,Asymptomatic,1,4,▁As ym ptom atic,False
+NLLB,Maternal outcomes,2,5,▁Mat ernal ▁out com es,False
+NLLB,Neonatal outcomes,2,6,▁Ne onat al ▁out com es,False
+NLLB,Intensive care unit (ICU),4,8,▁Inten sive ▁care ▁unit ▁( IC U ),False
+NLLB,Mechanical ventilation,2,5,▁Me chani cal ▁venti lation,False
+NLLB,Extracorporeal membrane oxygenation (ECMO),4,13,▁Ext rac or pore al ▁membr ane ▁oxygen ation ▁( EC MO ),False
+NLLB,Cesarean delivery,2,4,▁Ces are an ▁delivery,False
+NLLB,Preterm birth,2,4,▁Pr eter m ▁birth,False
+NLLB,Intrauterine growth restriction (IUGR),4,12,▁In tra uter ine ▁growth ▁restric tion ▁( I U GR ),False
+NLLB,Low birth weight,3,3,▁Low ▁birth ▁weight,True
+NLLB,Neonatal intensive care unit,4,7,▁Ne onat al ▁inten sive ▁care ▁unit,False
+NLLB,Perinatal deaths,2,5,▁Per inat al ▁death s,False
+NLLB,First trimester,2,3,▁First ▁trim ester,False
+NLLB,Stillbirth,1,3,▁Still bir th,False
+NLLB,Gestational age,2,3,▁Gest ational ▁age,False
