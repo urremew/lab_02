@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossary EN-RU: Фармацевтика и клинические исследования</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Lab 01, variant 4, generated automatically</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="tid-001">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sarcopenia</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">A progressive and generalized skeletal muscle disorder (or disease).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Саркопения</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-002">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Screening</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Identification of risk using questionnaires or tools before full diagnosis.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Скрининг</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-003">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Muscle mass</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A component of body composition evaluated via instrumental methods (DXA, BIA, CT, MRI).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Мышечная масса</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-004">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Muscle strength</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The primary diagnostic criterion for sarcopenia, often assessed via dynamometry.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Мышечная сила</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-005">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Handgrip dynamometry</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A simple, inexpensive, and non-invasive method for assessing muscle strength.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Кистевая динамометрия</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-006">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Physical performance</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Functionality assessed by tests (gait speed, chair stand) used as an indicator of disease severity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Физическая работоспособность</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-007">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Bioelectrical impedance analysis (BIA)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">An accessible method for assessing body composition based on the electrical resistance of tissues.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Биоимпедансный анализ (БИА)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-008">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Dual-energy X-ray absorptiometry (DXA)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A key method for assessing muscle mass based on differential X-ray absorption by soft tissues.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Двухэнергетическая рентгеновская абсорбциометрия (DXA)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-009">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cutoff values</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Standardized threshold limits used to define low muscle mass or strength.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Пороговые значения</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-010">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Frailty</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">A geriatric phenotype/syndrome in which weakness is a key marker of vulnerability.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Старческая астения</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-011">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Appendicular skeletal muscle mass index (ASMI)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A parameter calculated based on appendicular muscle mass divided by height.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Индекс аппендикулярной мышечной массы (ИАММ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-012">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>SARC-F</term>
+            <termNote type="partOfSpeech">Acronym</termNote>
+            <descrip type="definition">A screening questionnaire assessing strength, assistance in walking, rise from a chair, climb stairs, falls.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>SARC-F</term>
+              <termNote type="partOfSpeech">Acronym</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-013">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Supraependymal nerve plexus</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The neural plexus located on the ependyma's apical surface of the cerebral ventricles.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Супраэпендимное нервное сплетение</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-014">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Ependyma</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">The tissue lining the cerebral ventricles (described in the text as having an 'apical surface' and cells).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Эпендима</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-015">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Immunohistochemistry</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">A method used to investigate signs of functional activity and identify fibers and structures exhibiting potential synaptic activity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Иммуногистохимия</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-016">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Synaptophysin (SY)</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">One of the proteins of the SNARE complex, acting as a regulator of neurotransmitter exocytosis from synaptic vesicles.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Синаптофизин (СФ)</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-017">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tryptophan hydroxylase (TPH)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The enzyme that limits the synthesis of serotonin.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Триптофангидроксилаза (ТПГ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-018">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tyrosine hydroxylase (TH)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The enzyme that limits the synthesis of catecholamines.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Тирозингидроксилаза (ТГ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-019">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cerebrospinal fluid (CSF)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A fluid whose biochemical composition serves as an important diagnostic criterion for a number of diseases.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Спинномозговая жидкость (СМЖ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-020">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Catecholamines</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">A group of neurotransmitters whose synthesis is limited by tyrosine hydroxylase.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Катехоламины</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-021">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Serotonin</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">A neurotransmitter whose synthesis is limited by tryptophan hydroxylase.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Серотонин</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-022">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Synaptic activity</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Activity manifested by the appearance of synaptophysin in synaptic terminals, which is traditionally considered a manifestation of synaptic activity by the cell.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Синаптическая активность</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-023">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Compensated advanced chronic liver disease (cACLD)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">It represents severe fibrosis and compensated cirrhosis as a continuum, the stages of which are often impossible to distinguish in clinical practice.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Компенсированное продвинутое хроническое заболевание печени (КПХЭП)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-024">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Metabolic dysfunction-associated steatoic liver disease (MASLD)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The presence of liver steatosis in combination with at least one of the five cardiometabolic risk factors.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Метаболически ассоциированная жировая болезнь печени (МАЖБП)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-025">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Arterial hypertension (AH)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A cardiometabolic risk factor studied in the groups.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Артериальная гипертензия (АГ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-026">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Type 2 diabetes mellitus (T2DM)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A determining factor for the development of cACLD in patients with MASLD.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Сахарный диабет 2-го типа (СД2)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-027">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Dyslipidemia</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Defined based on presence of one or more of the following criteria: triglyceride concentration ≥1.7 mmol/l, high-density lipoprotein concentration &lt;1.0 mmol/l (in men) and &lt;1.3 mmol/l (in women), or taking lipid-lowering therapy.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Дислипидемия</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-028">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Transient elastography (TE)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Non-invasive method for assessing fibrosis to identify patients with a likely progressive course of the disease.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Транзиентная эластография (ТЭ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-029">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Controlled attenuation parameter (CAP)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A parameter used to assess the severity of steatosis.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Контролируемый параметр затухания ультразвука (КПЭУ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-030">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Odds ratio (OR)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A measure calculated with the boundaries defined at the 95% confidence interval to quantitatively assess the effect.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Отношение шансов (ОШ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-031">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Logistic regression</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A method used for the construction of a prognostic model for the risk of developing cACLD.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Логистическая регрессия</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-032">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Waist circumference</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">An anthropometric parameter that is a determining factor for the development of cACLD.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Окружность талии</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-033">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>PNPLA3 I148M</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Patatin-Like Phospholipase Domain Containing 3 gene polymorphism.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>PNPLA3 I148M</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-034">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Non-alcoholic fatty liver disease (NAFLD)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The most common liver disease worldwide and the leading cause of liver-related morbidity and mortality.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Неалкогольная жировая болезнь печени (НАЖБП)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-035">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hepatocellular carcinoma (HCC)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">An unfavorable outcome of MASLD progression, alongside liver cirrhosis.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Гепатоцеллюлярный рак (ГЦР)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-036">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Liver stiffness</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A parameter measured by TE, with threshold values proposed to identify cACLD.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Жесткость печени</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-037">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Steatosis</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Fat accumulation in the liver, whose severity is assessed by the CAP function.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Стеатоз</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-038">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Descriptive statistics</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A branch of statistics devoted to the summarization and description of data, which provides tools to explore data sets and illustrate the data.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Описательная статистика</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-039">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Qualitative variables</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Variables that cannot be measured, instead they are classified as categories.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Качественные переменные</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-040">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Quantitative variables</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Variables that can be measured numerically, or in other words their magnitude can be represented by a metric scale.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Количественные переменные</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-041">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>General population</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The entire group of individuals or items from which a sample is drawn (implied by the text comparing it to random samples).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Генеральная совокупность</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-042">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Random sample</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A subset of individuals chosen from a larger set (population) randomly.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Случайная выборка</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-043">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mean (arithmetic mean)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A sum of all values, divided by their total number (n).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Среднее арифметическое</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-044">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Median</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">The 0.5 quantile, which divides the distribution into two equal intervals; 50% of all values are located below the median and another 50% above.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Медиана</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-045">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mode</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">The most frequent value of the studied variable (or the absolute maximum of the distribution - the highest point on the histogram).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Мода</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-046">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Standard deviation (SD)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A parameter that describes the spread of the data, calculated as the square root of the variance.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Стандартное отклонение (среднеквадратическое отклонение)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-047">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Confidence interval (CI)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">An interval estimate which provides a range of possible values that likely includes the true value of the parameter for the general population.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Доверительный интервал (ДИ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-048">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Histogram</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">A graphical representation of the data distribution method where observed values are grouped into small ranges (bins) and counted.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Гистограмма</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-049">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Interquartile range (IQR)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The difference between the lower and the upper quartiles, providing information about the spread of the middle 50% of the data.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Интерквартильный размах (ИКР)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-050">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Box-plot (box-and-whiskers diagram)</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">A diagram that graphically represents quartiles (including median), as well as minimum and maximum values.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Диаграмма размаха («ящик с усами», «бокс-плот»)</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-051">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Outliers</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Data points that significantly differ from other observations.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Выбросы</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-052">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Odds</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">The ratio between the probability that the outcome will occur and the probability that the outcome will not occur.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Шансы</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-053">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Probability density function</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A function demonstrated by normalizing the histogram (dividing the count in each column by the number of observations multiplied by the class width).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Функция плотности вероятностей</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-054">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Normal distribution (Gaussian)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A probability distribution that is symmetric about the mean (a bell-shaped curve), or in other words, the closer the value is to the mean, the higher is the frequency.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Нормальное распределение (гауссово)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-055">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Skewness</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Measure of asymmetry of the distribution.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Коэффициент асимметрии</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-056">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Kurtosis</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Measure of the combined weight of a distribution's tails relative to the center of the distribution.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Коэффициент эксцесса</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-057">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Studies and research design</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Adequate design is an essential condition for conducting a successful study, a concept which is often underestimated and overlooked.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Дизайн научных исследований</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-058">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Subject</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">An individual (patient) participating in the study.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Субъект</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-059">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Prospective studies</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">In prospective studies a group of subjects is actively followed by the researchers for predefined period of time to determine the outcomes that will happen in the future.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Проспективные исследования</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-060">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Retrospective studies</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">In retrospective studies, the authors have information about existing outcomes and collect data on past exposures (e.g., from medical records).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Ретроспективные исследования</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-061">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Prevalence</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">The proportion of a population who have a specific characteristic at a specific time point or in a given time period, regardless of when they first developed the characteristic.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Показатель распространенности (превалентность)</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-062">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Incidence</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Incidence indicates the number of new cases of a disease or condition that develop in a population in a specified time period.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Показатель заболеваемости (инцидентность)</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-063">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Association</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Association is a statistical relationship between two variables (e.g., exposure and outcome), however it does not necessarily mean that there is a cause-effect relationship between them.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Ассоциация</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-064">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Causation</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Causation means that the exposure produces the effect.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Причинно-следственная связь</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-065">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Bias</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Bias is a systematic error in the interpretation of the data due to a factor that has not been accounted for in statistical analysis.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Систематическая ошибка</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-066">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Confounding</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">Confounding is a distortion of the true relationship between exposure and outcome by the influence of one or more factors, called confounders.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Конфаундинг</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-067">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Selection bias</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Selection bias occurs when systematic differences exist between baseline characteristics of the groups that are compared.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Систематическая ошибка отбора</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-068">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Recall bias</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Recall bias occurs in retrospective studies when participants do not remember previous events or experiences accurately or omit details.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Систематическая ошибка памяти</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-069">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Observer bias</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Observer bias occurs if the investigator knows the exposure status of the subject – this knowledge can influence measurements (in other words the researcher sees what he wants to see).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Систематическая ошибка наблюдателя</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-070">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Attrition bias</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Attrition bias occurs when participants leave during a study.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Систематическая ошибка выбывания</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-071">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Publication bias</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Publication bias occurs when the outcome of a study influences the decision whether to publish it.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Систематическая ошибка публикации</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-072">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Basic studies</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Basic studies, also known as experimental research, are designed to assess cause-outcome relationships between the variation of the independent variable and its effect on dependent variable in a highly controlled setting.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Фундаментальные исследования</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-073">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Observational studies</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">In observational studies, the researcher does not interfere with the course of events and does not influence the participants and the factors being studied.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Наблюдательные исследования</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-074">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cross-sectional studies</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Cross-sectional studies (surveys) are used to assess the prevalence of diseases, risk factors, outcomes and other health-related characteristics in a particular population in a certain moment of time.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Поперечные (одномоментные) исследования</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-075">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Ecological studies</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Ecological (correlation) studies investigate associations between disease occurrence and exposure to potential risk factor.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Экологические исследования</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-076">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Case-control studies</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Case-control studies are conducted retrospectively and analyse participants identified on the basis of their case status, i.e., presence or absence of the disease or another outcome.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Исследования «случай-контроль»</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-077">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cohort studies</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">In cohort studies the researchers identify study participants based on their exposure status and either follow them over time (prospective setting) to identify which participants will develop the outcome, or looking back at data created in the past (retrospective setting) prior to the development of the outcome.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Когортные исследования</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-078">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Interventional studies</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Interventional (experimental) studies compare the effect of the studied treatment (intervention) in the experimental group with a control group of subjects, who receive either placebo or a different treatment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Экспериментальные (интервенционные) исследования</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-079">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Randomised controlled trials (RCT)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">In randomised controlled trials (RCT) a homogenous group of subjects is randomly (by chance) divided into two separate groups.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Рандомизированные контролируемые исследования (РКИ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-080">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Systematic review and meta-analysis</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Systematic reviews evaluate and interpret the results of all published studies in the clinical area... statistical analysis to combine the results of separate studies, included in a systematic review, this method is called meta-analysis.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Систематический обзор и метаанализ</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-081">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>COVID-19 (Corona Virus Disease 2019)</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">An infectious disease caused by the SARS-CoV-2 virus, which became a major issue of Public Health.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Новая коронавирусная инфекция (COVID-19)</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-082">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">An enveloped, non-segmented positive-sense RNA belonging to the Nidovirales order.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Коронавирус тяжелого острого респираторного синдрома – 2 (SARS-CoV-2)</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-083">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pregnancy</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">A condition potentially associated with a higher burden of maternal mortality and morbidity due to peculiar cardiovascular and respiratory maternal adaptations.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Беременность</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-084">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Retrospective cohort study</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">An international study design that looks back at data created in the past to analyze participants identified on the basis of their case status.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Ретроспективное когортное исследование</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-085">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Symptomatic</term>
+            <termNote type="partOfSpeech">Adjective</termNote>
+            <descrip type="definition">Showing symptoms of the disease, such as cough and fever, followed by shortness of breath.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>С симптомами (симптомный)</term>
+              <termNote type="partOfSpeech">Adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-086">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Asymptomatic</term>
+            <termNote type="partOfSpeech">Adjective</termNote>
+            <descrip type="definition">Not showing symptoms of the disease at the time of triage.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Бессимптомный</term>
+              <termNote type="partOfSpeech">Adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-087">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Maternal outcomes</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The presence of maternal mortality and morbidity including at least one of the following: admission to ICU, use of mechanical ventilation, or death.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Материнские показатели (исходы)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-088">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Neonatal outcomes</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Health outcomes related to the newborn, including admission rates to neonatal intensive care unit and neonatal death.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Неонатальные показатели</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-089">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Intensive care unit (ICU)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A hospital department where patients with severe respiratory symptoms or critical conditions are admitted.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Отделение интенсивной терапии (ОИТ)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-090">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mechanical ventilation</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The use of a machine to assist or replace spontaneous breathing in patients with severe respiratory failure.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Механическая вентиляция легких</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-091">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Extracorporeal membrane oxygenation (ECMO)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A life support technique used in cases of severe respiratory or cardiac failure.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Экстракорпоральная мембранная оксигенация (ЭКМО)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-092">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cesarean delivery</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A surgical procedure used to deliver a baby through incisions in the mother's abdomen and uterus.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Кесарево сечение</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-093">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Preterm birth</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Birth of a baby before the 37th week of gestation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Преждевременные роды</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-094">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Intrauterine growth restriction (IUGR)</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Poor growth of a fetus while in the mother's womb during pregnancy.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Задержка внутриутробного развития (ЗВУР)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-095">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Low birth weight</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A weight at birth that is lower than normal, often associated with premature birth.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Низкая масса тела при рождении</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-096">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Neonatal intensive care unit</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A unit that provides intensive care for ill or premature newborn infants.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Отделение интенсивной терапии новорожденных</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-097">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Perinatal deaths</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">Deaths that occur around the time of birth, including stillbirths and neonatal deaths.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Перинатальные потери (смертность)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-098">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>First trimester</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">The first three months of pregnancy, defined in the text as a period when infection is associated with a higher incidence of composite adverse fetal outcome.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Первый триместр</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-099">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Stillbirth</term>
+            <termNote type="partOfSpeech">Noun</termNote>
+            <descrip type="definition">The birth of an infant that has died in the womb.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Мертворождение</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-100">
+        <descrip type="subjectField">Фармацевтика и клинические исследования</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Gestational age</term>
+            <termNote type="partOfSpeech">Noun phrase</termNote>
+            <descrip type="definition">A measure of the age of a pregnancy, which is calculated from the first day of the woman's last menstrual period.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Срок беременности (гестационный возраст)</term>
+              <termNote type="partOfSpeech">Noun phrase</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

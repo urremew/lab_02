@@ -1,0 +1,101 @@
+en,ru
+Sarcopenia,Саркопения
+Screening,Скрининг
+Muscle mass,Мышечная масса
+Muscle strength,Мышечная сила
+Handgrip dynamometry,Кистевая динамометрия
+Physical performance,Физическая работоспособность
+Bioelectrical impedance analysis (BIA),Биоимпедансный анализ (БИА)
+Dual-energy X-ray absorptiometry (DXA),Двухэнергетическая рентгеновская абсорбциометрия (DXA)
+Cutoff values,Пороговые значения
+Frailty,Старческая астения
+Appendicular skeletal muscle mass index (ASMI),Индекс аппендикулярной мышечной массы (ИАММ)
+SARC-F,SARC-F
+Supraependymal nerve plexus,Супраэпендимное нервное сплетение
+Ependyma,Эпендима
+Immunohistochemistry,Иммуногистохимия
+Synaptophysin (SY),Синаптофизин (СФ)
+Tryptophan hydroxylase (TPH),Триптофангидроксилаза (ТПГ)
+Tyrosine hydroxylase (TH),Тирозингидроксилаза (ТГ)
+Cerebrospinal fluid (CSF),Спинномозговая жидкость (СМЖ)
+Catecholamines,Катехоламины
+Serotonin,Серотонин
+Synaptic activity,Синаптическая активность
+Compensated advanced chronic liver disease (cACLD),Компенсированное продвинутое хроническое заболевание печени (КПХЭП)
+Metabolic dysfunction-associated steatoic liver disease (MASLD),Метаболически ассоциированная жировая болезнь печени (МАЖБП)
+Arterial hypertension (AH),Артериальная гипертензия (АГ)
+Type 2 diabetes mellitus (T2DM),Сахарный диабет 2-го типа (СД2)
+Dyslipidemia,Дислипидемия
+Transient elastography (TE),Транзиентная эластография (ТЭ)
+Controlled attenuation parameter (CAP),Контролируемый параметр затухания ультразвука (КПЭУ)
+Odds ratio (OR),Отношение шансов (ОШ)
+Logistic regression,Логистическая регрессия
+Waist circumference,Окружность талии
+PNPLA3 I148M,PNPLA3 I148M
+Non-alcoholic fatty liver disease (NAFLD),Неалкогольная жировая болезнь печени (НАЖБП)
+Hepatocellular carcinoma (HCC),Гепатоцеллюлярный рак (ГЦР)
+Liver stiffness,Жесткость печени
+Steatosis,Стеатоз
+Descriptive statistics,Описательная статистика
+Qualitative variables,Качественные переменные
+Quantitative variables,Количественные переменные
+General population,Генеральная совокупность
+Random sample,Случайная выборка
+Mean (arithmetic mean),Среднее арифметическое
+Median,Медиана
+Mode,Мода
+Standard deviation (SD),Стандартное отклонение (среднеквадратическое отклонение)
+Confidence interval (CI),Доверительный интервал (ДИ)
+Histogram,Гистограмма
+Interquartile range (IQR),Интерквартильный размах (ИКР)
+Box-plot (box-and-whiskers diagram),"Диаграмма размаха («ящик с усами», «бокс-плот»)"
+Outliers,Выбросы
+Odds,Шансы
+Probability density function,Функция плотности вероятностей
+Normal distribution (Gaussian),Нормальное распределение (гауссово)
+Skewness,Коэффициент асимметрии
+Kurtosis,Коэффициент эксцесса
+Studies and research design,Дизайн научных исследований
+Subject,Субъект
+Prospective studies,Проспективные исследования
+Retrospective studies,Ретроспективные исследования
+Prevalence,Показатель распространенности (превалентность)
+Incidence,Показатель заболеваемости (инцидентность)
+Association,Ассоциация
+Causation,Причинно-следственная связь
+Bias,Систематическая ошибка
+Confounding,Конфаундинг
+Selection bias,Систематическая ошибка отбора
+Recall bias,Систематическая ошибка памяти
+Observer bias,Систематическая ошибка наблюдателя
+Attrition bias,Систематическая ошибка выбывания
+Publication bias,Систематическая ошибка публикации
+Basic studies,Фундаментальные исследования
+Observational studies,Наблюдательные исследования
+Cross-sectional studies,Поперечные (одномоментные) исследования
+Ecological studies,Экологические исследования
+Case-control studies,Исследования «случай-контроль»
+Cohort studies,Когортные исследования
+Interventional studies,Экспериментальные (интервенционные) исследования
+Randomised controlled trials (RCT),Рандомизированные контролируемые исследования (РКИ)
+Systematic review and meta-analysis,Систематический обзор и метаанализ
+COVID-19 (Corona Virus Disease 2019),Новая коронавирусная инфекция (COVID-19)
+SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),Коронавирус тяжелого острого респираторного синдрома – 2 (SARS-CoV-2)
+Pregnancy,Беременность
+Retrospective cohort study,Ретроспективное когортное исследование
+Symptomatic,С симптомами (симптомный)
+Asymptomatic,Бессимптомный
+Maternal outcomes,Материнские показатели (исходы)
+Neonatal outcomes,Неонатальные показатели
+Intensive care unit (ICU),Отделение интенсивной терапии (ОИТ)
+Mechanical ventilation,Механическая вентиляция легких
+Extracorporeal membrane oxygenation (ECMO),Экстракорпоральная мембранная оксигенация (ЭКМО)
+Cesarean delivery,Кесарево сечение
+Preterm birth,Преждевременные роды
+Intrauterine growth restriction (IUGR),Задержка внутриутробного развития (ЗВУР)
+Low birth weight,Низкая масса тела при рождении
+Neonatal intensive care unit,Отделение интенсивной терапии новорожденных
+Perinatal deaths,Перинатальные потери (смертность)
+First trimester,Первый триместр
+Stillbirth,Мертворождение
+Gestational age,Срок беременности (гестационный возраст)

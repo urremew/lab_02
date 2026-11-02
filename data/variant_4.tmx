@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="lab01" creationtoolversion="1.0" segtype="sentence" o-tmf="TMX" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261102T210316Z"/>
+  <body>
+    <tu tuid="1" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>Sarcopenia currently affects 10–27% of people worldwide and 30–37% in the Russian Federation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В настоящее время распространенность саркопении в мире составляет 10–27%, в Российской Федерации – 30–37%.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>Sarcopenia screening in primary care: opportunities and limitations</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Скрининг саркопении на первичном этапе: возможности и ограничения</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>The evolution of sarcopenia diagnostic criteria reflects a shift from muscle mass assessment to an integrative model...</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Эволюция диагностических критериев саркопении отражает переход от оценки мышечной массы к интегративной модели...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>...in which muscle strength serves as the primary criterion and physical performance as an indicator of disease severity.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>...в которых мышечная сила служит первичным критерием, а физическая работоспособность – показателем тяжести.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>Handgrip dynamometry is a simple, inexpensive, and non-invasive method for assessing muscle strength...</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Кистевая динамометрия – простой, недорогой и неинвазивный метод оценки мышечной силы...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>Assessment of physical performance: functional tests as indicators of sarcopenia severity</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оценка физической работоспособности: функциональные тесты как показатель тяжести саркопении</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>Bioelectrical impedance analysis (BIA) is an accessible method for assessing body composition based on the electrical resistance of tissues...</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Биоимпедансный анализ (БИА) – доступный метод определения состава тела по электрическому сопротивлению тканей...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>DXA in whole-body mode is a key method for assessing muscle mass and is based on differential X-ray absorption by soft tissues.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>DXA в режиме «Все тело» – ключевой метод оценки мышечной массы, основанный на поглощении рентгеновского излучения мягкими тканями.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>Handgrip dynamometry cutoff values varied across populations.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Показана вариабельность пороговых значений кистевой динамометрии между популяциями.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10" creationdate="20261102T210316Z">
+      <prop type="domain">Фармацевтика и клинические исследования</prop>
+      <tuv xml:lang="en">
+        <seg>L.P. Fried et al. (2001) included weakness in the frailty phenotype, considering handgrip strength a marker of vulnerability.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>L.P. Fried и соавт. (2001) включили слабость в фенотип старческой астении, рассматривая результат кистевой динамометрии как маркер уязвимости.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

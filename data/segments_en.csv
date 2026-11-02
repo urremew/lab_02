@@ -1,0 +1,217 @@
+segment_id,source
+s001,Sarcopenia currently affects 10–27% of people worldwide and 30–37% in the Russian Federation.
+s002,Sarcopenia screening in primary care: opportunities and limitations
+s003,The evolution of sarcopenia diagnostic criteria reflects a shift from muscle mass assessment to an integrative model...
+s004,...in which muscle strength serves as the primary criterion and physical performance as an indicator of disease severity.
+s005,"Handgrip dynamometry is a simple, inexpensive, and non-invasive method for assessing muscle strength..."
+s006,Assessment of physical performance: functional tests as indicators of sarcopenia severity
+s007,Bioelectrical impedance analysis (BIA) is an accessible method for assessing body composition based on the electrical resistance of tissues...
+s008,DXA in whole-body mode is a key method for assessing muscle mass and is based on differential X-ray absorption by soft tissues.
+s009,Handgrip dynamometry cutoff values varied across populations.
+s010,"L.P. Fried et al. (2001) included weakness in the frailty phenotype, considering handgrip strength a marker of vulnerability."
+s011,The main parameter used for diagnosing sarcopenia is the appendicular skeletal muscle mass index (ASMI; appendicular muscle mass / height).
+s012,The SARC-F questionnaire is the most widely used screening tool; a score of ≥ 4 points indicates a risk of sarcopenia.
+s013,The supraependymal nerve plexus in rats during early postnatal development.
+s014,Synaptophysin-containing puncta or fibers with varicosities on the surface of ependymal cells were first detected by the end of the first week of postnatal development.
+s015,Aim. To investigate signs of functional activity of the supraependymal nerve plexus in early postnatal development using immunohistochemical methods.
+s016,"Antibodies to tyrosine hydroxylase, tryptophan hydroxylase, and synaptophysin were used to identify supraependymal fibers and structures exhibiting potential synaptic activity."
+s017,Tryptophan hydroxylase-positive structures were also observed at this stage of postnatal development.
+s018,Only on the 10th day of postnatal development were tyrosine hydroxylase-containing granules detected on the apical surface of the ependyma.
+s019,"The biochemical composition of cerebrospinal fluid (CSF) serves as an important diagnostic criterion for a number of diseases, including meningitis, stroke, and brain abscess."
+s020,"By the 10th day of postnatal development, supraependymal nerve fibers may participate in catecholaminergic neurotransmission."
+s021,The supraependymal plexus exhibits the capacity for synaptic transmission and serotonin synthesis by the end of the first week of postnatal development.
+s022,"To identify cACLD, threshold values of liver stiffness based on TE data have been proposed..."
+s023,The total of 108 patients with MASLD (33 men and 75 women aged 28 to 89 years) involved were divided into two groups based on results of transient elastography...
+s024,The OR for cACLD in individuals with arterial hypertension was 5.58 (95% CI: 1.21–25.71; p < 0.05)...
+s025,"The binary logistic regression model for detecting cACLD included type 2 diabetes mellitus, dyslipidemia, and waist circumference."
+s026,"Type 2 diabetes mellitus, dyslipidemia, and waist circumference are the determining factors for the development of cACLD in patients with MASLD."
+s027,"Therefore, in recent years, emphasis has been placed on the use of non-invasive methods for assessing fibrosis, primarily transient elastography (TE)..."
+s028,"Liver stiffness and the severity of steatosis were assessed using a FibroScan® 502 Touch device (Echosens, France) with a controlled attenuation parameter (CAP) function."
+s029,The construction of a prognostic model for the risk of developing cACLD was performed using the binary logistic regression method.
+s030,The PNPLA3 I148M gene polymorphism does not play a leading role in the development of progressive MASLD in the study cohort.
+s031,Non-alcoholic fatty liver disease (NAFLD) is the most common liver disease worldwide...
+s032,"In some patients, MASLD can progress with the formation of such unfavorable outcomes as liver cirrhosis, hepatocellular carcinoma (HCC), and increase mortality..."
+s033,"Inclusion criteria for the study: age 18 years and older, Caucasian race, presence of steatosis according to TE: CAP > 248 dB/m²..."
+s034,"Descriptive statistics provides tools to explore, summarize and illustrate the research data."
+s035,In this tutorial we discuss two main types of data - qualitative and quantitative variables...
+s036,"Quantitative variables (numerical, metric) can be measured numerically, or in other words their magnitude can be represented by a metric scale..."
+s037,One should keep in mind that we usually analyze a random sample derived from the general population...
+s038,"Mean (arithmetic mean, abbreviated µ for the general population and x̄ for the sample) is a sum of all values, divided by their total number (n)."
+s039,"Median (x̄) is the 0.5 quantile, described in the previous section."
+s040,Mode is the most frequent value of the studied variable (or the absolute maximum of the distribution - the highest point on the histogram).
+s041,It should be noted that SD is measured in the same units as the variable and the respective mean.
+s042,"While sample mean is a point estimate (provides a single value) for the population mean, CI is an interval estimate (which provides a range of possible values)."
+s043,Graphical representation of this method is called histogram.
+s044,IQR is the difference between the lower and the upper quartiles that were described in the previous section.
+s045,"Quartiles, including median, as well as minimum and maximum are graphically represented by the box-plot diagram (or box-and-whiskers diagram)."
+s046,Outliers are data points that significantly differ from other observations.
+s047,An alternative way to report binary outcomes is odds.
+s048,"The shape of the histogram has not changed, but now it demonstrates probability density function..."
+s049,Normal distribution (Gaussian) is a probability distribution that is symmetric about the mean (a bell-shaped curve)...
+s050,"Additional parameters, which describe the distribution are skewness (measure of asymmetry), and kurtosis..."
+s051,"Additional parameters, which describe the distribution are skewness (measure of asymmetry), and kurtosis (measure of the combined weight of a distribution's tails relative to the center of the distribution)."
+s052,Studies and research design in medicine.
+s053,Subject is an individual (patient) participating in the study.
+s054,In prospective studies a group of subjects is actively followed by the researchers for predefined period of time to determine the outcomes that will happen in the future.
+s055,"In retrospective studies, the authors have information about existing outcomes and collect data on past exposures (e.g., from medical records)."
+s056,"Prevalence is the proportion of a population who have a specific characteristic at a specific time point or in a given time period, regardless of when they first developed the characteristic."
+s057,Incidence indicates the number of new cases of a disease or condition that develop in a population in a specified time period.
+s058,"Association is a statistical relationship between two variables (e.g., exposure and outcome), however it does not necessarily mean that there is a cause-effect relationship between them."
+s059,Causation means that the exposure produces the effect.
+s060,Bias is a systematic error in the interpretation of the data due to a factor that has not been accounted for in statistical analysis.
+s061,"Confounding is a distortion of the true relationship between exposure and outcome by the influence of one or more factors, called confounders."
+s062,Selection bias occurs when systematic differences exist between baseline characteristics of the groups that are compared.
+s063,Recall bias occurs in retrospective studies when participants do not remember previous events or experiences accurately or omit details.
+s064,Observer bias occurs if the investigator knows the exposure status of the subject – this knowledge can influence measurements...
+s065,Attrition bias occurs when participants leave during a study.
+s066,Publication bias occurs when the outcome of a study influences the decision whether to publish it.
+s067,"Basic studies, also known as experimental research, are designed to assess cause-outcome relationships..."
+s068,"In observational studies, the researcher does not interfere with the course of events and does not influence the participants and the factors being studied."
+s069,"Cross-sectional studies (surveys) are used to assess the prevalence of diseases, risk factors, outcomes and other health-related characteristics..."
+s070,Ecological (correlation) studies investigate associations between disease occurrence and exposure to potential risk factor.
+s071,Case-control studies are conducted retrospectively and analyse participants identified on the basis of their case status...
+s072,In cohort studies the researchers identify study participants based on their exposure status and either follow them over time...
+s073,Interventional (experimental) studies compare the effect of the studied treatment (intervention) in the experimental group with a control group of subjects...
+s074,In randomised controlled trials (RCT) a homogenous group of subjects is randomly (by chance) divided into two separate groups.
+s075,Systematic reviews evaluate and interpret the results of all published studies in the clinical area...
+s076,"The World Association of Perinatal Medicine (WAPM) study on the COrona Virus Disease 2019 (COVID-19) was an international, retrospective cohort study..."
+s077,...that included pregnant women tested positive with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection between February and April 2020.
+s078,"Since the beginning of pandemic, it has been claimed that pregnancy is potentially associated with a higher burden of maternal mortality and morbidity..."
+s079,"The WAPM study on COVID-19 is an international, retrospective cohort study..."
+s080,"The occurrence of maternal adverse events was significantly higher in symptomatic, compared with asymptomatic pregnant women."
+s081,The rate of asymptomatic women was 24.2%.
+s082,"Regarding maternal outcomes, the primary outcome of the study was a composite maternal adverse outcome..."
+s083,On the cutting edge: key findings on maternal and neonatal outcomes in women with COVID-19...
+s084,"Women carrying high-risk pregnancies... were at a higher risk of hospital admission, presence of severe respiratory symptoms, admission to the intensive care unit, and invasive mechanical ventilation."
+s085,"The primary outcome was reported in 12.1% of women, and of these, 11.1% were admitted to ICU, and 9.3% required some type of mechanical ventilation."
+s086,"Intubation and extracorporeal membrane oxygenation were required in 6.4% and 0.5% of cases, respectively."
+s087,Cesarean delivery was performed in 54.2% of these women.
+s088,Preterm birth at less than 37 weeks of gestation occurred in 26.3% mostly (80.0%) iatrogenic deliveries.
+s089,The rate of intrauterine growth restriction was 3.8% in completed pregnancies...
+s090,...and low birth weight neonates were 20.7% in women with liveborn infants.
+s091,Admission rates to neonatal intensive care unit was 27.5%.
+s092,"Among the 266 women with completed pregnancies, the overall number of perinatal deaths was 11 (4.1%)."
+s093,The incidence of a composite adverse fetal outcome was significantly higher when the infection occurred in the first trimester...
+s094,"Among the other 266 women, 6 had stillbirth..."
+s095,The mean gestational age at delivery was 37.2 ± 3.9 weeks of gestation in women with liveborn infants.
+s096,The patient was diagnosed with sarcopenia according to the EWGSOP2 criteria.
+s097,Muscle strength was measured using a handheld dynamometer.
+s098,The study included 120 participants aged 65 and older.
+s099,Low muscle mass was defined as ASMI below 7.0 kg/m² in men.
+s100,Physical performance was assessed by gait speed and chair stand tests.
+s101,The prevalence of sarcopenia increases with age.
+s102,The patients were divided into two groups according to their muscle strength.
+s103,Statistical analysis was performed using logistic regression.
+s104,The odds ratio was calculated with a 95% confidence interval.
+s105,The median age of the participants was 72 years.
+s106,The interquartile range was used to describe the spread of the data.
+s107,Outliers were excluded from the final analysis.
+s108,The normal distribution was assessed using skewness and kurtosis.
+s109,A prospective cohort study was conducted in three clinical centers.
+s110,Selection bias may affect the validity of the results.
+s111,Confounding factors were adjusted in the multivariate model.
+s112,The incidence of adverse events was low.
+s113,The prevalence of arterial hypertension was higher in the older group.
+s114,Type 2 diabetes mellitus was a determining risk factor.
+s115,Dyslipidemia was diagnosed in 45% of patients.
+s116,Liver stiffness was measured by transient elastography.
+s117,The controlled attenuation parameter assessed the severity of steatosis.
+s118,Hepatocellular carcinoma is a severe complication of liver cirrhosis.
+s119,The PNPLA3 I148M polymorphism was genotyped in all participants.
+s120,Immunohistochemistry was used to detect synaptophysin.
+s121,Tryptophan hydroxylase limits the synthesis of serotonin.
+s122,Tyrosine hydroxylase is the rate-limiting enzyme for catecholamines.
+s123,Cerebrospinal fluid was collected for biochemical analysis.
+s124,The supraependymal nerve plexus was described in the cerebral ventricles.
+s125,Synaptic activity was confirmed by the presence of synaptic vesicles.
+s126,The mean value was 12.5 with a standard deviation of 2.3.
+s127,A random sample was drawn from the general population.
+s128,The histogram showed a right-skewed distribution.
+s129,The box-plot visualized the quartiles and outliers.
+s130,Qualitative variables were presented as frequencies.
+s131,Quantitative variables were reported as mean and standard deviation.
+s132,A randomized controlled trial was conducted to compare both treatments.
+s133,The experimental group received the active drug.
+s134,The control group received a placebo.
+s135,The patients were followed up for 12 months.
+s136,Retrospective analysis of medical records was performed.
+s137,The cross-sectional study assessed disease prevalence.
+s138,A case-control design was used to study rare outcomes.
+s139,Ecological studies investigate associations at the population level.
+s140,Systematic review and meta-analysis were performed.
+s141,Publication bias was assessed by funnel plot.
+s142,Recall bias is common in retrospective studies.
+s143,Observer bias can influence measurements.
+s144,Attrition bias occurs when participants leave the study.
+s145,COVID-19 is caused by the SARS-CoV-2 virus.
+s146,Pregnancy is associated with higher maternal morbidity.
+s147,Symptomatic patients were admitted to the intensive care unit.
+s148,Asymptomatic cases were identified during screening.
+s149,Mechanical ventilation was required in severe cases.
+s150,Extracorporeal membrane oxygenation was used as a life support technique.
+s151,Cesarean delivery was performed in 30% of cases.
+s152,Preterm birth was defined as delivery before 37 weeks.
+s153,Intrauterine growth restriction was diagnosed by ultrasound.
+s154,Low birth weight was associated with neonatal complications.
+s155,Neonatal intensive care unit admission was required.
+s156,Perinatal deaths included stillbirths and neonatal deaths.
+s157,The first trimester is a critical period for fetal development.
+s158,Stillbirth was reported in 2% of pregnancies.
+s159,Gestational age was calculated from the last menstrual period.
+s160,The study was approved by the local ethics committee.
+s161,Informed consent was obtained from all participants.
+s162,The data were anonymized before analysis.
+s163,The results were statistically significant at p < 0.05.
+s164,The sensitivity and specificity of the test were calculated.
+s165,The positive predictive value was 85%.
+s166,The negative predictive value was 92%.
+s167,The area under the ROC curve was 0.87.
+s168,Multivariate logistic regression was used to identify predictors.
+s169,The model was validated in an independent cohort.
+s170,The Kaplan-Meier method was used for survival analysis.
+s171,The hazard ratio was 1.45 (95% CI 1.12–1.88).
+s172,The chi-square test was used for categorical variables.
+s173,The Mann-Whitney test was applied for non-normal distributions.
+s174,The t-test compared means between two groups.
+s175,The ANOVA test compared means across three groups.
+s176,Correlation analysis was performed using Pearson coefficient.
+s177,The Spearman correlation was used for ordinal data.
+s178,Missing data were handled by multiple imputation.
+s179,The sample size was calculated using power analysis.
+s180,The study had 80% power to detect a 10% difference.
+s181,The dropout rate was 12% during follow-up.
+s182,Adverse events were recorded according to the CTCAE criteria.
+s183,The drug was administered orally twice daily.
+s184,The dose was adjusted according to renal function.
+s185,The pharmacokinetics of the drug were studied in healthy volunteers.
+s186,The half-life of the drug was approximately 8 hours.
+s187,The bioavailability of the oral formulation was 65%.
+s188,The drug interaction was evaluated in vitro.
+s189,The therapeutic range was determined by therapeutic drug monitoring.
+s190,The patient experienced a severe allergic reaction.
+s191,The adverse drug reaction was reported to the pharmacovigilance system.
+s192,The clinical trial was registered on ClinicalTrials.gov.
+s193,The study protocol was approved by the regulatory authority.
+s194,The primary endpoint was overall survival.
+s195,The secondary endpoints included progression-free survival.
+s196,The quality of life was assessed using the EQ-5D questionnaire.
+s197,The patient-reported outcomes were collected at baseline and at 6 months.
+s198,The cost-effectiveness analysis was performed from the healthcare perspective.
+s199,The incremental cost-effectiveness ratio was calculated.
+s200,The budget impact analysis was conducted over a 5-year horizon.
+s201,The systematic review included 25 randomized trials.
+s202,The heterogeneity was assessed using the I² statistic.
+s203,The forest plot showed the pooled effect estimate.
+s204,The publication bias was assessed using Egger's test.
+s205,The GRADE approach was used to rate the quality of evidence.
+s206,The recommendation was strong with moderate certainty.
+s207,The guideline was developed by a multidisciplinary panel.
+s208,The expert consensus was reached after two Delphi rounds.
+s209,The diagnostic accuracy study included 300 patients.
+s210,The reference standard was histopathological examination.
+s211,The inter-rater reliability was assessed by kappa coefficient.
+s212,The intraclass correlation coefficient was 0.91.
+s213,The Bland-Altman plot assessed agreement between methods.
+s214,The minimal clinically important difference was 5 points.
+s215,The ceiling effect was observed in the quality-of-life scores.
+s216,The floor effect limited the sensitivity of the scale.
